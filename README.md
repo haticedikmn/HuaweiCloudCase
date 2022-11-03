@@ -7,17 +7,17 @@
 
 #### Step 2. Create a Secuirty Group and allow this security group for every incoming request.
 
-#### Step 4. Create two ECS’, one in 1. VPC one in 2. VPC
+#### Step 3. Create two ECS’, one in 1. VPC one in 2. VPC
 
-#### Step 5. Create database (use RDS for mysql) in 3.VPC
+#### Step 4. Create database (use RDS for mysql) in 3.VPC
 
-#### Step 6. Use “Remote Login” for ECS’ and try to ping other ECS and RDS.
+#### Step 5. Use “Remote Login” for ECS’ and try to ping other ECS and RDS.
 
-#### Step 7. Create VPC-Peering between 1.VPC-2.VPC, 1.VPC-3.VPC and 2.VPC-3.VPC
+#### Step 6. Create VPC-Peering between 1.VPC-2.VPC, 1.VPC-3.VPC and 2.VPC-3.VPC
 
-#### Step 8. Add routing rules to use VPC-Peerings.
+#### Step 7. Add routing rules to use VPC-Peerings.
 
-#### Step 9. Use “Remote Login” for ECS’ and try to ping other ECS and RDS again.
+#### Step 8. Use “Remote Login” for ECS’ and try to ping other ECS and RDS again.
 ##
 ##  So let's start
 
